@@ -6,7 +6,7 @@ install_requires = [
   "datasets==2.13.1",
   "huggingface-hub==0.15.1",
   "iopath==0.1.10",
-  "nltk==3.8.1",
+  "nltk==3.9.2",
   "numpy==1.25.0",
   "omegaconf==2.3.0",
   "pandas==2.0.2",
